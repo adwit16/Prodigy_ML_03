@@ -9,8 +9,8 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 from sklearn.decomposition import PCA
 
 # ==== Configuration ====
-TRAIN_DIR = r'data\train'
-TEST_DIR = r'data\test1'
+TRAIN_DIR = r'C:\Users\apani\Desktop\data\train'
+TEST_DIR = r'C:\Users\apani\Desktop\data\test1'
 IMAGE_SIZE = 64
 NUM_IMAGES_PER_CLASS = 1000
 
